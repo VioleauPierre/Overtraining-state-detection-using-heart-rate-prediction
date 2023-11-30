@@ -1,4 +1,4 @@
-# Training State Detection Using Heart Rate Prediction
+# Overtraining State Detection Using Heart Rate Prediction
 
 ## Project Overview:
 
